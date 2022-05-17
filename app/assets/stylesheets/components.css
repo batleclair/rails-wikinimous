@@ -1,0 +1,31 @@
+a {
+  text-decoration: none;
+}
+
+h1 {
+  font-size: 25px;
+}
+
+.button {
+  padding: 10px;
+  border-radius: 3px;
+  background-color: #61988E;
+  color: white;
+  display: block;
+  width: 100px;
+  text-align: center;
+  font-size: 12px;
+  position: sticky;
+  top: 20px;
+}
+
+.button h6 {
+  display: inline;
+}
+
+.card {
+  border: 1px solid grey;
+  border-radius: 3px;
+  padding: 10px;
+
+}
